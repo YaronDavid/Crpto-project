@@ -1,0 +1,69 @@
+Hugo					Matematicas
+1er Examen	10
+2do Examen	5
+3er Examen	8
+Tareas		9
+Trabajo en clase 6
+
+Hugo					Español
+1er Examen	7
+2do Examen	8
+3er Examen	8
+Tareas		6
+Trabajo en clase 7
+
+Adrian					Matematicas
+1er Examen	10
+2do Examen	10
+3er Examen	9
+Tareas		9
+Trabajo en clase 9
+
+Adrian					Español
+1er Examen	10
+2do Examen	9
+3er Examen	8
+Tareas		10
+Trabajo en clase 10
+
+Angelica				Matematicas
+1er Examen	10
+2do Examen	5
+3er Examen	10
+Tareas		10
+Trabajo en clase 6
+
+Angelica				Español
+1er Examen	6
+2do Examen	8
+3er Examen	7
+Tareas		8
+Trabajo en clase 6
+
+Karmen					Matematicas
+1er Examen	7
+2do Examen	6
+3er Examen	6
+Tareas		7
+Trabajo en clase 6
+
+Karmen					Español
+1er Examen	7
+2do Examen	8
+3er Examen	4
+Tareas		6
+Trabajo en clase 8
+
+Carlos					Matematicas
+1er Examen	5
+2do Examen	4
+3er Examen	5
+Tareas		8
+Trabajo en clase 1
+
+Carlos					Español
+1er Examen	8
+2do Examen	7
+3er Examen	5
+Tareas		2
+Trabajo en clase 2
